@@ -1,2 +1,5 @@
 # IGNORE VIRTUAL ENVIRONMENT FOR THE PROJECT
 data_analysis_venv
+
+# IGNORE DATA IN PROJECT 2
+project 2/data
