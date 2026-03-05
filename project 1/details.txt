@@ -1,0 +1,4 @@
+# DETAILS OF WORKFLOW
+This is synthetic warm up practices to Python for data analytics and business intelligence.
+The idea will be to generate a synthetic dataset and build up follow up practise questions to provide a clear overview of the concepts.
+
