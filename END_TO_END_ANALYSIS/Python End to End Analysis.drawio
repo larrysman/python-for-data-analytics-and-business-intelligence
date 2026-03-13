@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="bIiEEAO-Fw1RMAcLt6ZN">
+    <mxGraphModel dx="1826" dy="777" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#E6E6E6,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-1" parent="1" style="shape=stencil(lZbdUttADIWfxrdnpNX+XlN4D2YIjYc0YUKg5e3R1mOIlkSd3vnv88pHR8c7yc3L9v55MwV6OR0PT5vf88NpO8mPKYR5v90c55MeTXI7yc3j4bj5eTy87h+W8+f7/mQ/+nV462/4s3CNUEKnAr0vV2JCan+v3C3Abt6fAxmlGCAJWnWAhsoGyIKaXSCJAUoEeyUltGyAqis4QG2IFmiMFh1AVbIltYLE14FCyFYlJgLRdSITJNolGtiRKRGq7ZzqQE4jooBtI2oFO4BUkAVK84EMsrrmBhIHKGMjUkV1VIphXCGqW5zO6W1pFggITklaQK4G0CKzs0KuaMkCGSE53lARrZlU6OB8dG+TXUFbGfyBoGFG6V8zykPjCLFcB87c/OkNWoPh8hI6MBbQofJa3UdysGtbX3FZJh36YUg1GJySeqzYkr6i53KrBeXbjFYnBjQa6wBofHozmhCHoVZZHTN1QP4HkDima09Dx0whrm7+BBKyE0yc1rQ+i43ofHRBtW4tDHHaEMYwzrym7cXn1ar2AxKvKXLteWuLSODg1ZNsYgRfUc0TWz831xQcR4GYkZweBxmBBHEmRz0x/Bm0AY6garpBofHfpgdfO47HebdbNizn98cdil5adjdy+wE=);lineShape=1;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="2.522336761604606" width="2.51462274023811" x="307.8631549603631" y="101.85546056846158" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-2" parent="1" style="shape=stencil(lZbdUttADIWfxrdnpNX+XlN4D2YIjYc0YUKg5e3R1mOIlkSd3vnv88pHR8c7yc3L9v55MwV6OR0PT5vf88NpO8mPKYR5v90c55MeTXI7yc3j4bj5eTy87h+W8+f7/mQ/+nV462/4s3CNUEKnAr0vV2JCan+v3C3Abt6fAxmlGCAJWnWAhsoGyIKaXSCJAUoEeyUltGyAqis4QG2IFmiMFh1AVbIltYLE14FCyFYlJgLRdSITJNolGtiRKRGq7ZzqQE4jooBtI2oFO4BUkAVK84EMsrrmBhIHKGMjUkV1VIphXCGqW5zO6W1pFggITklaQK4G0CKzs0KuaMkCGSE53lARrZlU6OB8dG+TXUFbGfyBoGFG6V8zykPjCLFcB87c/OkNWoPh8hI6MBbQofJa3UdysGtbX3FZJh36YUg1GJySeqzYkr6i53KrBeXbjFYnBjQa6wBofHozmhCHoVZZHTN1QP4HkDima09Dx0whrm7+BBKyE0yc1rQ+i43ofHRBtW4tDHHaEMYwzrym7cXn1ar2AxKvKXLteWuLSODg1ZNsYgRfUc0TWz831xQcR4GYkZweBxmBBHEmRz0x/Bm0AY6garpBofHfpgdfO47HebdbNizn98cdil5adjdy+wE=);lineShape=1;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="2.522336761604606" width="2.51462274023811" x="160.8631549603631" y="68.85546056846158" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-3" parent="1" style="shape=stencil(lZbdUttADIWfxrdnpNX+XlN4D2YIjYc0YUKg5e3R1mOIlkSd3vnv88pHR8c7yc3L9v55MwV6OR0PT5vf88NpO8mPKYR5v90c55MeTXI7yc3j4bj5eTy87h+W8+f7/mQ/+nV462/4s3CNUEKnAr0vV2JCan+v3C3Abt6fAxmlGCAJWnWAhsoGyIKaXSCJAUoEeyUltGyAqis4QG2IFmiMFh1AVbIltYLE14FCyFYlJgLRdSITJNolGtiRKRGq7ZzqQE4jooBtI2oFO4BUkAVK84EMsrrmBhIHKGMjUkV1VIphXCGqW5zO6W1pFggITklaQK4G0CKzs0KuaMkCGSE53lARrZlU6OB8dG+TXUFbGfyBoGFG6V8zykPjCLFcB87c/OkNWoPh8hI6MBbQofJa3UdysGtbX3FZJh36YUg1GJySeqzYkr6i53KrBeXbjFYnBjQa6wBofHozmhCHoVZZHTN1QP4HkDima09Dx0whrm7+BBKyE0yc1rQ+i43ofHRBtW4tDHHaEMYwzrym7cXn1ar2AxKvKXLteWuLSODg1ZNsYgRfUc0TWz831xQcR4GYkZweBxmBBHEmRz0x/Bm0AY6garpBofHfpgdfO47HebdbNizn98cdil5adjdy+wE=);lineShape=1;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="2.522336761604606" width="2.51462274023811" x="171.8631549603631" y="79.85546056846158" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Industry Standard End to End Data Analytics Portfolio Project&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="600" x="90" y="32.38" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-6" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" value="Import data into Python" vertex="1">
+          <mxGeometry height="70" width="50" x="60" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-7" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Logos-2642/bxl-python-1390.svg" value="Data Modeling and EDA with Python" vertex="1">
+          <mxGeometry height="90" width="90" x="40" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-9" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" value="Load data into SQL" vertex="1">
+          <mxGeometry height="50" width="60" x="60" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-10" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" value="Data Analysis in SQL" vertex="1">
+          <mxGeometry height="160" width="120" x="30" y="486" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-11" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="Connect with Power BI" vertex="1">
+          <mxGeometry height="60" width="160" x="160" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-12" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" value="Interactive Dashboard with Power BI" vertex="1">
+          <mxGeometry height="180" width="135" x="350" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-13" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="Summarize findings" vertex="1">
+          <mxGeometry height="39" width="100" x="502" y="553" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-14" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.quicksight_paginated_reports;" value="Project Report" vertex="1">
+          <mxGeometry height="192.97" width="153.38" x="610" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-15" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Business___Finance_glyph_V4-2604/635_Bill_excel_file_invoice_statement-1175.svg" value="Business Problem Statement" vertex="1">
+          <mxGeometry height="110" width="110" x="35" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-16" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/AIBuilder.svg;" value="Using AI to enhance the reporting" vertex="1">
+          <mxGeometry height="120" width="120" x="626.69" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-17" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" value="Enhancing the Reports with AI" vertex="1">
+          <mxGeometry height="100" width="60" x="660.69" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-20" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" value="Documented in GitHub Repository" vertex="1">
+          <mxGeometry height="130" width="170" x="330" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-21" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610" y="280" as="sourcePoint" />
+            <mxPoint x="520" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_mBVPIvytJ7UqLmybdQ-23" connectable="0" parent="6_mBVPIvytJ7UqLmybdQ-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Project documentation on GitHub" vertex="1">
+          <mxGeometry relative="1" x="-0.0821" y="-8" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
