@@ -18,3 +18,7 @@ You are tasked with analyzing the company's consumer behaviour dataset to answer
 4. Report and Presentation: Write a clear project report summarizing the key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 5. GitHub Repository: Include all Python scripts, SQL queries, and dashboard files in well-structured repository.
 
+# Generating README documentation for GPT
+Write a professional README file for a data analytics project with title 'customer shopping behaviour analytics project'. The project includes loading a customer shopping dataset in Python, performing EDA, cleaning the data on a notebook on VSCode with Python and loading the cleaned dataset back into MySQL database from the notebook using Python. Performed some analysis by running SQL queries from the MySQL database to further gain business insights, loaded the dataset from the MySQL database into Power BI to build an interactive Power BI dashboard, creating a report, and making a PPT presentation slides to communicate findings and recommendations. Structure the README file with necessary sections like Overview, Dataset Description, Tools, Steps, Dashboard, Results and How to Run the project. Keep it simple, clear, professional and recruiter friendly.
+
+
