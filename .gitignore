@@ -17,15 +17,18 @@ END_TO_END_ANALYSIS/.env
 project 1/
 project 2/
 project 3/
-
+project 4/
 
 # IGNORE REPORT FILES
 END_TO_END_ANALYSIS/project_detail.txt
 
 
+
 END_TO_END_ANALYSIS/consumer_shopping_behaviour_analytics_report.docx
 END_TO_END_ANALYSIS/End-to-End-Customer-Behavior-Analytics.pdf
 END_TO_END_ANALYSIS/End-to-End-Customer-Behavior-Analytics.pptx
+
+
 
 
 
