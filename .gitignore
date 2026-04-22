@@ -25,10 +25,14 @@ project 5/
 END_TO_END_ANALYSIS/project_detail.txt
 
 
-
+# IGNORE ANALYTICS REPORTS
 END_TO_END_ANALYSIS/consumer_shopping_behaviour_analytics_report.docx
 END_TO_END_ANALYSIS/End-to-End-Customer-Behavior-Analytics.pdf
 END_TO_END_ANALYSIS/End-to-End-Customer-Behavior-Analytics.pptx
+
+# IGNORE SCRIPTS FOR GENERATORS
+generator.py
+random_num_gen.py
 
 
 
